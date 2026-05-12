@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0018",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 전환 화면 #02",
+  "titleEn": "U4A Sample Application - Navigation Screen #02",
+  "descriptionKo": "전자 서명 및 화면 분할을 통한 다양한 테이블 레이아웃 활용 예시.",
+  "descriptionEn": "Screen showcasing electronic signatures and split-screen layouts with various table designs.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0018/YUA_TPL0018.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0018/YUA_TPL0018.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0018",
+    "yua-tpl0018",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0018",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0018/YUA_TPL0018.U4A",
+      "media": "v1.120.21/YUA_TPL0018/YUA_TPL0018.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0018/YUA_TPL0018.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
