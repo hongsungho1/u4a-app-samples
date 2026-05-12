@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0006",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "F4 Search help 응용",
+  "titleEn": "F4 Search Help Advanced Applications",
+  "descriptionKo": "Dictionary Search Help 및 Dynamic Search Help 응용 화면.",
+  "descriptionEn": "Advanced implementation screens for Data Dictionary and Dynamic Search Help.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0006/YUA_TPL0006.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0006/YUA_TPL0006.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0006",
+    "yua-tpl0006",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0006",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0006/YUA_TPL0006.U4A",
+      "media": "v1.120.21/YUA_TPL0006/YUA_TPL0006.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0006/YUA_TPL0006.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
