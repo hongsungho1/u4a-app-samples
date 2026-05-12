@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0024",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "U4A Sample Application 화면 - 점포취합발주등록 (모바일)",
+  "titleEn": "U4A Sample Application - Aggregated Store Order Registration (Mobile)",
+  "descriptionKo": "모바일 환경에 맞춘 발주 조회를 위한 리스트 및 필터 UI 예시.",
+  "descriptionEn": "List and filter UI example for order inquiries tailored for mobile devices.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0024/YUA_TPL0024.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0024/YUA_TPL0024.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0024",
+    "yua-tpl0024",
+    "1.120.21",
+    "mobile",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0024",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0024/YUA_TPL0024.U4A",
+      "media": "v1.120.21/YUA_TPL0024/YUA_TPL0024.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0024/YUA_TPL0024.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
