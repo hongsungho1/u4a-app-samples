@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0025",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "U4A Sample Application 화면 - 시간대별 매출 추이 (모바일)",
+  "titleEn": "U4A Sample Application - Hourly Sales Trends (Mobile)",
+  "descriptionKo": "모바일 환경에서 시간대별 매출 데이터를 비교하고 분석하는 화면 예시.",
+  "descriptionEn": "Screen example for comparing and analyzing hourly sales data on mobile.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0025/YUA_TPL0025.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0025/YUA_TPL0025.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0025",
+    "yua-tpl0025",
+    "1.120.21",
+    "mobile",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0025",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0025/YUA_TPL0025.U4A",
+      "media": "v1.120.21/YUA_TPL0025/YUA_TPL0025.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0025/YUA_TPL0025.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
