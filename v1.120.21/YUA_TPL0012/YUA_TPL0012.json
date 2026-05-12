@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0012",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Report Application 화면 - 조회결과 테이블 2개 화면(상하배치)",
+  "titleEn": "U4A Report Application - Dual Result Tables (Vertical Layout)",
+  "descriptionKo": "U4A 기본 조회 화면에 2개의 조회 결과 테이블이 상하로 배치되어 있으며, Splitter를 통해 각 테이블의 영역 크기를 조정할 수 있는 화면.",
+  "descriptionEn": "Standard query screen with two vertically stacked result tables and a Splitter for adjustable area sizes.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0012/YUA_TPL0012.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0012/YUA_TPL0012.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0012",
+    "yua-tpl0012",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0012",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0012/YUA_TPL0012.U4A",
+      "media": "v1.120.21/YUA_TPL0012/YUA_TPL0012.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0012/YUA_TPL0012.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
