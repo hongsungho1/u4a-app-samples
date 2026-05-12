@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0003",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "M.TABLE 속성 설정 예시",
+  "titleEn": "M.TABLE Attribute Configuration Examples",
+  "descriptionKo": "M TABLE 속성 중 growing, growingScrollToLoad 등 설정 예시.",
+  "descriptionEn": "Examples of M.TABLE properties such as growing and growingScrollToLoad.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0003/YUA_TPL0003.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0003/YUA_TPL0003.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0003",
+    "yua-tpl0003",
+    "1.120.21",
+    "mobile",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0003",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0003/YUA_TPL0003.U4A",
+      "media": "v1.120.21/YUA_TPL0003/YUA_TPL0003.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0003/YUA_TPL0003.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
