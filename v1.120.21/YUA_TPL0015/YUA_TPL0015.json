@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0015",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Report Application 화면 - 트리형 테이블",
+  "titleEn": "U4A Report Application - Tree Table",
+  "descriptionKo": "트리 컨트롤과 테이블이 결합된 조회 화면 구성 예시.",
+  "descriptionEn": "Configuration example of a query screen combining tree controls and tables.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0015/YUA_TPL0015.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0015/YUA_TPL0015.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0015",
+    "yua-tpl0015",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0015",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0015/YUA_TPL0015.U4A",
+      "media": "v1.120.21/YUA_TPL0015/YUA_TPL0015.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0015/YUA_TPL0015.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
