@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0016",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 조회조건 UI Template : 복수 컬럼",
+  "titleEn": "U4A Sample Application - Multi-Column Search Condition Template",
+  "descriptionKo": "복수 컬럼으로 구성된 조회조건 및 UI.Table 화면 예시.",
+  "descriptionEn": "Example screen featuring multi-column search conditions and a UI.Table layout.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0016/YUA_TPL0016.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0016/YUA_TPL0016.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0016",
+    "yua-tpl0016",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0016",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0016/YUA_TPL0016.U4A",
+      "media": "v1.120.21/YUA_TPL0016/YUA_TPL0016.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0016/YUA_TPL0016.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
