@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0010",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A 기본형 Report Application 화면 - 조회조건 핸들링",
+  "titleEn": "U4A Standard Report Application - Search Condition Handling",
+  "descriptionKo": "U4A 기반 기본 조회 화면에서 조건 유형에 따라 입력 항목이 자동으로 전환되는 기능을 추가한 화면.",
+  "descriptionEn": "Standard U4A query screen with dynamic input field switching based on the selected condition type.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0010/YUA_TPL0010.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0010/YUA_TPL0010.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0010",
+    "yua-tpl0010",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0010",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0010/YUA_TPL0010.U4A",
+      "media": "v1.120.21/YUA_TPL0010/YUA_TPL0010.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0010/YUA_TPL0010.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
