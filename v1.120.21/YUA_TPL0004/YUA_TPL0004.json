@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0004",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "FILE 첨부 기능",
+  "titleEn": "File Attachment Functionality",
+  "descriptionKo": "UI FILE UPLOADER 설정 예시.",
+  "descriptionEn": "Configuration example for UI File Uploader component.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0004/YUA_TPL0004.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0004/YUA_TPL0004.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0004",
+    "yua-tpl0004",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0004",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0004/YUA_TPL0004.U4A",
+      "media": "v1.120.21/YUA_TPL0004/YUA_TPL0004.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0004/YUA_TPL0004.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
