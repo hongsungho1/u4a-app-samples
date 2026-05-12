@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0019",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 전환 화면 #03",
+  "titleEn": "U4A Sample Application - Navigation Screen #03",
+  "descriptionKo": "조회조건과 다중 테이블 영역을 갖춘 화면 구성 예시.",
+  "descriptionEn": "Configuration example of a screen with search conditions and multiple table areas.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0019/YUA_TPL0019.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0019/YUA_TPL0019.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0019",
+    "yua-tpl0019",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0019",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0019/YUA_TPL0019.U4A",
+      "media": "v1.120.21/YUA_TPL0019/YUA_TPL0019.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0019/YUA_TPL0019.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
