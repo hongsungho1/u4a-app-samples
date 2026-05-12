@@ -3,14 +3,13 @@
   "version": "1.120.21",
   "category": "desktop",
   "titleKo": "Node.js GitHub 테스트 합시다 !!!",
-  "titleEn": "Let's test Node.js on GitHub!",
+  "titleEn": "Let's test Node.js with GitHub!!!",
   "descriptionKo": "VS Code에서 Node.js 디버깅으로 GitHub에 첨부 테스트 입니다\n- 홍성호",
-  "descriptionEn": "This is a test of attaching to GitHub using Node.js debugging in VS Code.\n- Hong Seong-ho",
+  "descriptionEn": "This is a test of attaching to GitHub using Node.js debugging in VS Code. – Hong Seongho",
   "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0002/YUA_SH0002.U4A",
   "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0002/YUA_SH0002.jpg",
   "additionalMediaUrls": [
-    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0002/YUA_SH0002_01.mp4",
-    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0002/YUA_SH0002_02.png"
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0002/YUA_SH0002_01.png"
   ],
   "keywords": [
     "U4A",
@@ -31,8 +30,7 @@
       "app": "v1.120.21/YUA_SH0002/YUA_SH0002.U4A",
       "media": "v1.120.21/YUA_SH0002/YUA_SH0002.jpg",
       "additionalMedia": [
-        "v1.120.21/YUA_SH0002/YUA_SH0002_01.mp4",
-        "v1.120.21/YUA_SH0002/YUA_SH0002_02.png"
+        "v1.120.21/YUA_SH0002/YUA_SH0002_01.png"
       ],
       "metadata": "v1.120.21/YUA_SH0002/YUA_SH0002.json"
     }
