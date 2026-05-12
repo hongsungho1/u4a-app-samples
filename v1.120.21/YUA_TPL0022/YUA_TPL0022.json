@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0022",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "U4A Sample Application 화면 - 폐기등록 (모바일)",
+  "titleEn": "U4A Sample Application - Disposal Registration (Mobile)",
+  "descriptionKo": "모바일 환경에 최적화된 폐기물 등록을 위한 폼 레이아웃 예시.",
+  "descriptionEn": "Form layout example for disposal registration optimized for mobile environments.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0022/YUA_TPL0022.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0022/YUA_TPL0022.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0022",
+    "yua-tpl0022",
+    "1.120.21",
+    "mobile",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0022",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0022/YUA_TPL0022.U4A",
+      "media": "v1.120.21/YUA_TPL0022/YUA_TPL0022.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0022/YUA_TPL0022.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
