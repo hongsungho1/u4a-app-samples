@@ -3,9 +3,9 @@
   "version": "1.120.21",
   "category": "desktop",
   "titleKo": "Node.js GitHub 및 홈페이지 서버 등록 테스트 예제 - 홍성호",
-  "titleEn": "Node.js GitHub and Website Server Registration Test Example – Hong Seongho",
+  "titleEn": "Node.js GitHub and Web Server Registration Test Example – Hong Seong-ho",
   "descriptionKo": "VS Code에서 Node.js 디버깅으로 GitHub 업로드 후 홈페이지 구현 예제 API까지 전송하는 테스트 데이터입니다.\n- 홍성호",
-  "descriptionEn": "This is test data that, after uploading to GitHub using Node.js debugging in VS Code, sends it to the example website implementation API.\n- Hong Seongho",
+  "descriptionEn": "Test data that demonstrates uploading to GitHub using Node.js debugging in VS Code, then sending it to a web implementation example API.\n- Hong Seong-ho",
   "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0001/YUA_SH0001.U4A",
   "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0001/YUA_SH0001.jpg",
   "additionalMediaUrls": [
