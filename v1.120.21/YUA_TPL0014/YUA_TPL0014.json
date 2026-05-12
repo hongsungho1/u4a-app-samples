@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0014",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Report Application 화면 - 테이블 필드 표시 핸들링",
+  "titleEn": "U4A Report Application - Table Field Visibility Handling",
+  "descriptionKo": "U4A 기본 조회 화면에 2개의 조회 결과 테이블이 상하로 배치되어 있으며, ICONTABBAR와 SegmentedButton을 사용해 선택에 따라 테이블 필드 표시를 제어할 수 있는 화면.",
+  "descriptionEn": "Query screen with dual vertical tables, utilizing IconTabBar and SegmentedButtons to dynamically control table field visibility.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0014/YUA_TPL0014.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0014/YUA_TPL0014.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0014",
+    "yua-tpl0014",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0014",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0014/YUA_TPL0014.U4A",
+      "media": "v1.120.21/YUA_TPL0014/YUA_TPL0014.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0014/YUA_TPL0014.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
