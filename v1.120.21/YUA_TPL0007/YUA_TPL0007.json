@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0007",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "Dialog 예시 화면",
+  "titleEn": "Dialog Example Screen",
+  "descriptionKo": "UI sap.m.Dialog를 사용한 팝업창 호출 화면. 팝업창 내 테이블, 이미지, 팝업창 이동 및 크기 조정 화면.",
+  "descriptionEn": "Screen demonstrating sap.m.Dialog calls, featuring tables, images, and resize/move functionality within the popup.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0007/YUA_TPL0007.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0007/YUA_TPL0007.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0007",
+    "yua-tpl0007",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0007",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0007/YUA_TPL0007.U4A",
+      "media": "v1.120.21/YUA_TPL0007/YUA_TPL0007.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0007/YUA_TPL0007.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
