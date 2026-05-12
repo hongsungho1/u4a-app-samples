@@ -3,9 +3,9 @@
   "version": "1.120.21",
   "category": "desktop",
   "titleKo": "Node.js GitHub 테스트 합시다 !!!",
-  "titleEn": "Let's test Node.js with GitHub!!!",
+  "titleEn": "Let's test Node.js on GitHub!!!",
   "descriptionKo": "VS Code에서 Node.js 디버깅으로 GitHub에 첨부 테스트 입니다\n- 홍성호",
-  "descriptionEn": "This is a test of attaching to GitHub using Node.js debugging in VS Code. – Hong Seongho",
+  "descriptionEn": "This is a test of attaching to GitHub via Node.js debugging in VS Code. - Hong Seong-ho",
   "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0002/YUA_SH0002.U4A",
   "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_SH0002/YUA_SH0002.jpg",
   "additionalMediaUrls": [
