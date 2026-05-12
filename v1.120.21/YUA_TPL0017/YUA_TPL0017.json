@@ -1,0 +1,39 @@
+{
+  "id": "YUA_TPL0017",
+  "version": "1.120.21",
+  "category": "desktop",
+  "titleKo": "U4A Sample Application 화면 - 전환 화면 #01",
+  "titleEn": "U4A Sample Application - Navigation Screen #01",
+  "descriptionKo": "탭(오브젝트 레이아웃)과 폼 레이아웃을 활용한 데이터 입력 화면 예시.",
+  "descriptionEn": "Data entry screen example utilizing tabs (Object Layout) and Form Layouts.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0017/YUA_TPL0017.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YUA_TPL0017/YUA_TPL0017.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "YUA_TPL0017",
+    "yua-tpl0017",
+    "1.120.21",
+    "desktop",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YUA_TPL0017",
+    "files": {
+      "app": "v1.120.21/YUA_TPL0017/YUA_TPL0017.U4A",
+      "media": "v1.120.21/YUA_TPL0017/YUA_TPL0017.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YUA_TPL0017/YUA_TPL0017.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": "MIGRATION_JSON_EN_FIELDS_USED"
+  }
+}
