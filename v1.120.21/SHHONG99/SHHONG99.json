@@ -1,0 +1,53 @@
+{
+  "id": "SHHONG99",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "첨부 파일 간편 업로드",
+  "titleEn": "Simple Attachment Upload",
+  "descriptionKo": "첨부 파일을 빠르게 선택하고 모바일 환경에서도 손쉽게 서버에 업로드할 수 있습니다. 사용자는 사진, 문서 등 원하는 파일을 터치하거나 드래그만으로 추가할 수 있어 별도의 복잡한 절차가 필요하지 않습니다.\n\n파일을 선택하면 자동으로 파일 크기를 최적화하고, 업로드 진행 상황을 실시간으로 표시합니다. 동시에 여러 파일을 한 번에 전송할 수 있어 효율적인 작업이 가능합니다.\n\n업로드가 완료되면 파일 리스트와 함께 성공 메시지가 나타나며, 오류 발생 시 상세 내용이 제공되어 문제를 즉시 확인하고 조치할 수 있습니다.",
+  "descriptionEn": "Quickly select attached files and easily upload them to the server, even in mobile environments. Users can add photos, documents, and other files simply by tapping or dragging, without any complex steps. Once a file is selected, its size is automatically optimized and the upload progress is shown in real time. Multiple files can be sent simultaneously for efficient work. Upon completion, a success message appears with the file list, and if errors occur, detailed information is provided so the issue can be identified and resolved immediately.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/SHHONG99/SHHONG99.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/SHHONG99/SHHONG99.mp4",
+  "additionalMediaUrls": [
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/SHHONG99/SHHONG99_01.mp4",
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/SHHONG99/SHHONG99_02.jpg"
+  ],
+  "keywords": [
+    "모바일 파일 업로드",
+    "drag-and-drop",
+    "자동 이미지 압축",
+    "real-time progress",
+    "multi-file transfer",
+    "SAP UI5 컴포넌트",
+    "Fiori 모바일",
+    "파일 선택 터치",
+    "오류 상세 로그",
+    "사용자 친화 UI",
+    "SHHONG99",
+    "1.120.21",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/SHHONG99",
+    "files": {
+      "app": "v1.120.21/SHHONG99/SHHONG99.U4A",
+      "media": "v1.120.21/SHHONG99/SHHONG99.mp4",
+      "additionalMedia": [
+        "v1.120.21/SHHONG99/SHHONG99_01.mp4",
+        "v1.120.21/SHHONG99/SHHONG99_02.jpg"
+      ],
+      "metadata": "v1.120.21/SHHONG99/SHHONG99.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
