@@ -1,0 +1,54 @@
+{
+  "id": "SHHONG99",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "바코드 리딩 후 조회까지",
+  "titleEn": "Scanning a Barcode and Viewing Results",
+  "descriptionKo": "스마트폰 카메라를 이용해 바코드를 스캔하면, 해당 코드를 자동으로 인식하여 서버에 전달하고 제품 정보를 조회합니다.  \n\n바코드 인식, 서버 전송, 조회 결과 표시라는 기본 흐름을 하나의 화면에서 순차적으로 수행하도록 설계되었습니다. 조회된 정보는 상품명, 가격, 재고 등 주요 항목을 포함한 리스트 형태로 제공됩니다.  \n\n사용자는 스캔 후 바로 화면에 나타나는 결과를 확인하고, 필요시 개별 항목을 탭해 상세 페이지로 이동하거나, 검색어를 수정해 다시 조회할 수 있습니다.",
+  "descriptionEn": "When you scan a barcode with your smartphone’s camera, the code is automatically recognized, sent to the server, and the product information is retrieved. The core workflow—barcode detection, server transmission, and result display—is designed to run sequentially on a single screen. Retrieved data is shown as a list containing key details such as product name, price, and stock. Users can see the results instantly after scanning, tap any item to open a detailed view, or adjust the search term to perform another lookup.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/SHHONG99/SHHONG99.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/SHHONG99/SHHONG99.mp4",
+  "additionalMediaUrls": [
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/SHHONG99/SHHONG99_01.jpg"
+  ],
+  "keywords": [
+    "바코드 스캔",
+    "product lookup",
+    "SAP UI5 Mobile",
+    "스마트폰 카메라",
+    "서버 연동",
+    "실시간 조회",
+    "리스트 UI",
+    "상세 페이지 네비게이션",
+    "재고 관리",
+    "UI5 컨트롤",
+    "Responsive Design",
+    "BarcodeReader",
+    "REST API 연동",
+    "SHHONG99",
+    "1.120.21",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/SHHONG99",
+    "files": {
+      "app": "v1.120.21/SHHONG99/SHHONG99.U4A",
+      "media": "v1.120.21/SHHONG99/SHHONG99.mp4",
+      "additionalMedia": [
+        "v1.120.21/SHHONG99/SHHONG99_01.jpg"
+      ],
+      "metadata": "v1.120.21/SHHONG99/SHHONG99.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
