@@ -1,0 +1,49 @@
+{
+  "id": "SHHONG99",
+  "version": "1.77.2",
+  "category": "responsive",
+  "titleKo": "실시간 업무 조회",
+  "titleEn": "Real-Time Task Overview",
+  "descriptionKo": "실시간으로 진행 중인 업무를 한 눈에 확인하고 관리할 수 있도록 설계된 샘플입니다. 사용자는 현재 담당하고 있는 업무의 목록과 상태를 즉시 파악해 업무 흐름을 효율적으로 조정할 수 있습니다.\n\n주요 기능으로는 업무 리스트와 상태를 실시간으로 업데이트하는 대시보드, 키워드와 담당자를 기준으로 필터링·검색하는 기능, 그리고 각 업무를 클릭하면 상세 정보를 확인할 수 있는 인터페이스가 포함됩니다. 화면 구성이 반응형으로 구현돼 다양한 디바이스에서도 동일한 사용성을 제공합니다.\n\n페이지를 열면 최신 업무 데이터가 자동으로 로드되고, 업무 상태가 변할 때마다 화면이 즉시 갱신됩니다. 사용자는 리스트에서 원하는 업무를 선택해 상세 페이지로 이동해 진행 상황을 상세히 확인하고 필요한 조치를 취할 수 있습니다.",
+  "descriptionEn": "This sample is designed to let you view and manage ongoing tasks at a glance in real time. Users can instantly see the list of tasks they are responsible for and their current statuses, enabling efficient adjustment of workflow.\n\nKey features include a dashboard that updates task lists and statuses instantly, filtering and searching by keyword and assignee, and an interface where clicking a task displays detailed information. The layout is responsive, providing consistent usability across various devices.\n\nWhen the page loads, the latest task data is fetched automatically, and the screen refreshes immediately whenever a task’s status changes. Users can select a task from the list to navigate to its detail page, review progress in depth, and take the necessary actions.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/SHHONG99/SHHONG99.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/SHHONG99/SHHONG99.jpg",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "실시간 업무대시보드",
+    "real-time task",
+    "SAPUI5",
+    "responsive design",
+    "필터링 검색",
+    "task status update",
+    "mobile friendly",
+    "Fiori Elements",
+    "OData 모델",
+    "업무 상세조회",
+    "UI5 component",
+    "web app",
+    "SHHONG99",
+    "1.77.2",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.77.2/SHHONG99",
+    "files": {
+      "app": "v1.77.2/SHHONG99/SHHONG99.U4A",
+      "media": "v1.77.2/SHHONG99/SHHONG99.jpg",
+      "additionalMedia": [],
+      "metadata": "v1.77.2/SHHONG99/SHHONG99.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
