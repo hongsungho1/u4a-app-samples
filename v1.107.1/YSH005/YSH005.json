@@ -1,0 +1,57 @@
+{
+  "id": "YSH005",
+  "version": "1.107.1",
+  "category": "responsive",
+  "titleKo": "U4A 반응형 대시보드 샘플",
+  "titleEn": "U4A Responsive Dashboard Sample",
+  "descriptionKo": "U4A Workspace의 반응형 대시보드 샘플은 다양한 화면 크기에 따라 자동으로 레이아웃이 조정되는 웹 대시보드를 손쉽게 구현할 수 있음을 보여줍니다. 사용자는 동일한 코드를 데스크톱, 태블릿, 스마트폰에서 동일하게 적용해 일관된 UI 경험을 제공할 수 있습니다.  \n\n주요 기능으로는 드래그‑앤‑드롭으로 구성 요소를 배치할 수 있는 레이아웃 편집기, 실시간 데이터를 시각화하는 차트와 그리드, 테마와 색상을 즉시 전환할 수 있는 디자인 옵션, 그리고 모바일 미리보기를 통한 화면 최적화 확인이 포함됩니다.  \n\n샘플을 실행하면 브라우저 창 크기를 조절할 때 차트, 테이블, 메뉴 등이 자동으로 재배치되는 모습을 확인할 수 있으며, 차트 영역을 클릭하면 툴팁이 표시되고, 데이터를 새로 고침하면 최신값이 실시간으로 반영됩니다. 또한 모바일 모드로 전환하면 터치 친화적인 UI 요소와 레이아웃 변화를 직접 체험할 수 있습니다.",
+  "descriptionEn": "The responsive dashboard sample in U4A Workspace demonstrates how easily a web dashboard can be built to automatically adjust its layout for various screen sizes. Users can apply the same code on desktop, tablet, and smartphone, delivering a consistent UI experience. Key features include a drag‑and‑drop layout editor, charts and grids that visualize real‑time data, design options for instantly switching themes and colors, and a mobile preview to verify screen optimization. When you run the sample, resizing the browser window automatically re‑positions charts, tables, menus, and other components; clicking a chart shows a tooltip, and refreshing the data instantly reflects the latest values. Switching to mobile mode lets you experience touch‑friendly UI elements and layout transformations directly.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.107.1/YSH005/YSH005.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.107.1/YSH005/YSH005.png",
+  "additionalMediaUrls": [
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.107.1/YSH005/YSH005_01.png",
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.107.1/YSH005/YSH005_02.png",
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.107.1/YSH005/YSH005_03.mp4"
+  ],
+  "keywords": [
+    "반응형 레이아웃",
+    "drag‑and‑drop UI",
+    "real‑time 차트",
+    "SAP UI5",
+    "Fiori 디자인",
+    "모바일 미리보기",
+    "tablet support",
+    "theme switch",
+    "데이터 바인딩",
+    "adaptive UI",
+    "UI5 컨트롤",
+    "cross‑device 호환",
+    "YSH005",
+    "1.107.1",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.107.1/YSH005",
+    "files": {
+      "app": "v1.107.1/YSH005/YSH005.U4A",
+      "media": "v1.107.1/YSH005/YSH005.png",
+      "additionalMedia": [
+        "v1.107.1/YSH005/YSH005_01.png",
+        "v1.107.1/YSH005/YSH005_02.png",
+        "v1.107.1/YSH005/YSH005_03.mp4"
+      ],
+      "metadata": "v1.107.1/YSH005/YSH005.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
