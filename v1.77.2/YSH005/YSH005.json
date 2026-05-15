@@ -1,0 +1,53 @@
+{
+  "id": "YSH005",
+  "version": "1.77.2",
+  "category": "responsive",
+  "titleKo": "xxxxxU4A 워크스페이스 예시 카드",
+  "titleEn": "xxxxxU4A Workspace Sample Card",
+  "descriptionKo": "U4A 워크스페이스 예시 카드는 U4A 환경에서 반응형 UI를 구현하는 방법을 한눈에 확인할 수 있도록 만든 샘플입니다. 실제 프로젝트에 적용하기 전에 기본적인 레이아웃 구조와 스타일링을 테스트해볼 수 있습니다.\n\nxxxxx카드 안에서는 텍스트와 이미지, 버튼 등을 자유롭게 배치하고, 드래그 앤 드롭으로 위치를 조정할 수 있습니다. 또한 화면 크기에 따라 자동으로 레이아웃이 조정되는 반응형 동작을 실시간으로 확인할 수 있습니다.\n\n미리보기를 통해 다양한 디바이스 해상도에서 카드가 어떻게 표시되는지 확인하고, 클릭하면 상세 페이지로 이동하는 기본적인 네비게이션 흐름도 검증할 수 있습니다.",
+  "descriptionEn": "The U4A Workspace sample card provides a quick view of how to implement responsive UI within the U4A environment. Before integrating it into an actual project, you can test the basic layout structure and styling.\n\nInside the xxxxx card, you can freely arrange text, images, buttons, and other elements, adjusting their positions with drag‑and‑drop. The responsive behavior—automatic layout adjustments based on screen size—can be observed in real time.\n\nUsing the preview, you can see how the card displays on various device resolutions, and clicking the card validates the basic navigation flow to a detailed page.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YSH005/YSH005.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YSH005/YSH005.mp4",
+  "additionalMediaUrls": [
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YSH005/YSH005_01.png",
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YSH005/YSH005_02.png"
+  ],
+  "keywords": [
+    "반응형UI",
+    "drag-and-drop",
+    "UI5 카드",
+    "레이아웃 테스트",
+    "다중디바이스 프리뷰",
+    "U4A 워크스페이스",
+    "SAPUI5",
+    "responsive design",
+    "네비게이션 흐름",
+    "CSS 스타일링",
+    "YSH005",
+    "1.77.2",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.77.2/YSH005",
+    "files": {
+      "app": "v1.77.2/YSH005/YSH005.U4A",
+      "media": "v1.77.2/YSH005/YSH005.mp4",
+      "additionalMedia": [
+        "v1.77.2/YSH005/YSH005_01.png",
+        "v1.77.2/YSH005/YSH005_02.png"
+      ],
+      "metadata": "v1.77.2/YSH005/YSH005.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
