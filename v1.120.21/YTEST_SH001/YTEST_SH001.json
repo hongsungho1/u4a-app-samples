@@ -1,29 +1,30 @@
 {
   "id": "YTEST_SH001",
   "version": "1.120.21",
-  "category": "desktop",
-  "titleKo": "테스트 샘플1",
-  "titleEn": "Test Sample 1",
-  "descriptionKo": "테스트 샘플1",
-  "descriptionEn": "Test Sample 1",
+  "category": "responsive",
+  "titleKo": "테스트1",
+  "titleEn": "Test1",
+  "descriptionKo": "테스트1 U4A Workspace 테스트1 샘플은 반응형 UI 구현과 SAP 연동 기능을 검증하기 위한 목적으로 제공됩니다. 사용자는 다양한 화면 크기에서 레이아웃이 자동으로 조정되는 모습을 확인하고, 실제 SAP 시스템과 연동된 데이터 흐름을 체험할 수 있습니다.  \n\n주요 기능으로는 다국어 전환(sap-language 파라미터), 클라이언트 선택(sap-client 파라미터) 기반의 환경 설정, 그리고 최신 버전(1.120.21)에서 지원되는 반응형 레이아웃 엔진이 포함됩니다. 샘플은 카테고리 “responsive”에 맞춰 설계되어, 모바일부터 데스크톱까지 일관된 사용자 경험을 제공합니다.  \n\n사용자는 https://uha.u4aide.com:10101/zu4a/ytest_sh001?sap-language=EN&sap-client=800 주소에 접속해 페이지 로드, 언어 전환, 데이터 조회 등 기본 동작을 직접 실행해볼 수 있습니다. 이를 통해 U4A Workspace의 핵심 기능을 손쉽게 검증하고, 실제 프로젝트 적용 시 기대 효과를 미리 확인할 수 있습니다.",
+  "descriptionEn": "The Test1 U4A Workspace sample is provided to validate responsive UI implementation and SAP integration capabilities. Users can observe the layout automatically adjusting across various screen sizes and experience data flows linked to a real SAP system.\n\nKey features include multilingual switching via the sap-language parameter, client selection via the sap-client parameter, and a responsive layout engine supported in the latest version (1.120.21). Designed for the \"responsive\" category, the sample delivers a consistent user experience from mobile to desktop.\n\nUsers can access https://uha.u4aide.com:10101/zu4a/ytest_sh001?sap-language=EN&sap-client=800 to load the page, switch languages, retrieve data, and perform other basic actions. This enables easy verification of U4A Workspace’s core functions and allows stakeholders to preview the expected benefits before applying the solution to real projects.",
   "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001.U4A",
   "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001.mp4",
   "additionalMediaUrls": [
-    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001_01.png"
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001_01.png",
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001_02.png"
   ],
   "keywords": [
-    "UI5",
-    "SAP Fiori",
-    "desktop",
-    "OData",
-    "EN",
-    "다국어",
+    "반응형 UI",
+    "SAP 연동",
+    "다국어 지원",
+    "클라이언트 파라미터",
+    "UI5 레이아웃 엔진",
+    "모바일 최적화",
+    "데스크톱 호환",
+    "U4A Workspace",
+    "SAP UI5",
     "데이터 바인딩",
-    "테스트 샘플",
-    "화면 레이아웃",
-    "SAP Gateway",
-    "JavaScript",
-    "SAP UI5 Component",
+    "실시간 데이터 조회",
+    "웹 접근성",
     "YTEST_SH001",
     "1.120.21",
     "U4A",
@@ -39,7 +40,8 @@
       "app": "v1.120.21/YTEST_SH001/YTEST_SH001.U4A",
       "media": "v1.120.21/YTEST_SH001/YTEST_SH001.mp4",
       "additionalMedia": [
-        "v1.120.21/YTEST_SH001/YTEST_SH001_01.png"
+        "v1.120.21/YTEST_SH001/YTEST_SH001_01.png",
+        "v1.120.21/YTEST_SH001/YTEST_SH001_02.png"
       ],
       "metadata": "v1.120.21/YTEST_SH001/YTEST_SH001.json"
     }
