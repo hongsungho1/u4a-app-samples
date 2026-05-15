@@ -1,0 +1,50 @@
+{
+  "id": "YSOGANG02",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "모바일에서 간편하게 파일 업로드하기",
+  "titleEn": "Effortlessly Upload Files on Mobile",
+  "descriptionKo": "모바일 환경에서 언제 어디서나 손쉽게 파일을 선택하고 서버에 업로드할 수 있도록 설계된 샘플입니다. 사용자는 스마트폰 화면만으로 파일 첨부 과정을 빠르게 진행할 수 있어, 현장 업무나 원격 작업 시 효율성을 크게 높여줍니다.\n\n주요 기능으로는 기기 내 사진·동영상, 문서 등 다양한 유형의 파일을 바로 선택하거나 카메라로 촬영해 바로 업로드할 수 있습니다. 선택된 파일은 자동으로 용량을 최적화하고, 진행 바를 통해 실시간 전송 상태를 확인할 수 있습니다. 또한 네트워크 환경에 따라 재시도 및 오류 처리가 자동으로 이루어집니다.\n\n사용자는 파일을 선택한 뒤 미리보기를 통해 올바른 파일인지 확인하고, 업로드 버튼을 누르면 진행률과 예상 소요 시간을 확인합니다. 성공 시에는 알림이 표시되고, 실패 시 상세 오류 메시지가 제공되어 즉시 조치를 취할 수 있습니다. 이러한 과정을 통해 모바일에서도 안정적이고 직관적인 파일 관리가 가능합니다.",
+  "descriptionEn": "This sample is designed to let you easily select files and upload them to a server anytime, anywhere on a mobile device. Users can complete the file‑attachment process quickly using only a smartphone screen, greatly increasing efficiency during field work or remote tasks.\n\nKey features include the ability to select various file types—photos, videos, documents, etc.—directly from the device, or capture a new photo/video with the camera and upload it instantly. Selected files are automatically optimized for size, and a progress bar shows real‑time transfer status. Additionally, retry and error handling are performed automatically based on network conditions.\n\nAfter selecting a file, users can preview it to verify correctness, then press the upload button to see the progress and estimated time remaining. On success, a notification is shown; on failure, detailed error messages are provided so immediate corrective action can be taken. This workflow enables reliable and intuitive file management even on mobile devices.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YSOGANG02/YSOGANG02.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YSOGANG02/YSOGANG02.png",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "모바일 파일업로드",
+    "mobile upload",
+    "SAP UI5",
+    "OData",
+    "cross-device",
+    "사진 첨부",
+    "실시간 진행률",
+    "offline retry",
+    "responsive design",
+    "SAP Fiori",
+    "파일 최적화",
+    "camera integration",
+    "UI5 controls",
+    "YSOGANG02",
+    "1.120.21",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YSOGANG02",
+    "files": {
+      "app": "v1.120.21/YSOGANG02/YSOGANG02.U4A",
+      "media": "v1.120.21/YSOGANG02/YSOGANG02.png",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YSOGANG02/YSOGANG02.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
