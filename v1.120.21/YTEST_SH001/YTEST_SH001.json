@@ -2,29 +2,30 @@
   "id": "YTEST_SH001",
   "version": "1.120.21",
   "category": "responsive",
-  "titleKo": "111통합 스마트 효율적인 시설물 관리 플랫폼",
-  "titleEn": "111 Integrated Smart and Efficient Facility Management Platform",
-  "descriptionKo": "111U4A Workspace는 시설물 관리 업무를 한 곳에서 스마트하게 처리할 수 있도록 설계된 통합 플랫폼입니다. 실시간 데이터 수집과 AI 기반 분석을 통해 시설 운영 효율성을 극대화하고, 사용자 맞춤형 화면으로 언제 어디서나 손쉽게 접근할 수 있습니다.\n\n주요 기능으로는 설비 상태 실시간 모니터링, 고장 예측 알림, 자산 및 유지보수 이력 관리, 모바일·데스크톱 모두 최적화된 반응형 UI가 포함됩니다. 또한 대시보드 위젯을 자유롭게 배치하고, 다양한 필터와 보고서 템플릿을 활용해 필요한 정보를 즉시 추출할 수 있습니다.\n\n사용자는 제공된 실행 URL에 접속해 로그인 후 전체 설비 현황을 한눈에 확인하고, 알림을 통해 즉시 조치를 취할 수 있습니다. 상세 화면에서 설비별 데이터를 검토하고, 유지보수 계획을 수립하거나 보고서를 다운로드하여 팀과 공유하는 등 전 과정을 원스톱으로 수행할 수 있습니다.",
-  "descriptionEn": "The 111U4A Workspace is an integrated platform designed to handle all facility management tasks intelligently in one place. It maximizes operational efficiency through real-time data collection and AI-driven analytics, and offers customizable dashboards that can be accessed easily anytime, anywhere. Key features include real-time equipment status monitoring, predictive failure alerts, asset and maintenance-history management, and a responsive UI optimized for both mobile and desktop. Users can freely arrange dashboard widgets and instantly extract required information using a variety of filters and report templates. After logging in via the provided execution URL, users can view an overview of all equipment at a glance and take immediate action through alerts. Detailed screens allow inspection of asset-specific data, creation of maintenance plans, or downloading of reports for team sharing, enabling a complete, one-stop workflow.",
+  "titleKo": "통지 주문 자동 생성·다채널 전송",
+  "titleEn": "Automatic Generation of Notification Orders & Multi-Channel Sending",
+  "descriptionKo": "통지 오더를 손쉽게 만들고, 만든 통지를 바로 사용자에게 전달할 수 있는 프로그램입니다. 사용자는 주문 정보를 입력하면 시스템이 자동으로 알림을 생성하고, 선택한 채널(예: 이메일, 메신저)로 전송합니다.\n\n주요 기능으로는 통지 템플릿 관리, 실시간 미리보기, 전송 결과 확인이 포함됩니다. 또한 다양한 디바이스에서 화면이 자동으로 조정되는 반응형 UI를 제공해 언제 어디서나 편리하게 이용할 수 있습니다. \n\n프로그램 실행 후 통지 생성 → 미리보기 확인 → 전송 버튼 클릭 → 전송 성공 여부와 수신 로그를 확인하는 순서로 작업 흐름을 바로 확인할 수 있습니다.",
+  "descriptionEn": "Create notification orders effortlessly and deliver them instantly to users. Users input order information, and the system automatically generates the notification and sends it via selected channels (e.g., email, messenger).\n\nKey features include notification template management, real-time preview, and transmission result monitoring. Additionally, a responsive UI automatically adapts to various devices, allowing convenient use anytime, anywhere.\n\nAfter launching the program, the workflow proceeds as: generate notification → verify preview → click Send → check delivery success and recipient logs.",
   "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001.U4A",
-  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001.mp4",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001.png",
   "additionalMediaUrls": [
-    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001_01.png"
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001_01.png",
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001_02.png",
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YTEST_SH001/YTEST_SH001_03.mp4"
   ],
   "keywords": [
-    "통합 관리",
-    "Smart Facility Monitoring",
-    "실시간 알림",
-    "UI5 Responsive",
-    "AI 기반 예측",
-    "Dashboard 위젯",
+    "통지 자동생성",
+    "multi-channel 전송",
+    "responsive UI",
+    "SAP UI5",
+    "Fiori 요소",
+    "OData 서비스 연동",
+    "실시간 미리보기",
+    "템플릿 관리",
+    "이메일 알림",
+    "메신저 연동",
     "모바일 최적화",
-    "Asset Maintenance",
-    "SAP Fiori Elements",
-    "데이터 시각화",
-    "고장 진단",
-    "멀티 디바이스",
-    "맞춤형 보고서",
+    "클라우드 배포",
     "YTEST_SH001",
     "1.120.21",
     "U4A",
@@ -38,9 +39,11 @@
     "folder": "v1.120.21/YTEST_SH001",
     "files": {
       "app": "v1.120.21/YTEST_SH001/YTEST_SH001.U4A",
-      "media": "v1.120.21/YTEST_SH001/YTEST_SH001.mp4",
+      "media": "v1.120.21/YTEST_SH001/YTEST_SH001.png",
       "additionalMedia": [
-        "v1.120.21/YTEST_SH001/YTEST_SH001_01.png"
+        "v1.120.21/YTEST_SH001/YTEST_SH001_01.png",
+        "v1.120.21/YTEST_SH001/YTEST_SH001_02.png",
+        "v1.120.21/YTEST_SH001/YTEST_SH001_03.mp4"
       ],
       "metadata": "v1.120.21/YTEST_SH001/YTEST_SH001.json"
     }
