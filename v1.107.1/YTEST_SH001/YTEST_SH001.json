@@ -1,0 +1,51 @@
+{
+  "id": "YTEST_SH001",
+  "version": "1.107.1",
+  "category": "responsive",
+  "titleKo": "테스트 샘플1",
+  "titleEn": "Test Sample 1",
+  "descriptionKo": "테스트 샘플1은 SAP UI5 기반의 Fiori Elements 애플리케이션을 다중 화면 레이아웃으로 미리 확인할 수 있도록 설계된 데스크톱 전용 샘플입니다. ws‑platform=3.0 환경과 ytest_sh001 앱을 활용해 OData 서비스를 실시간으로 연동함으로써 실제 업무 시나리오와 유사한 UI 구성을 체험할 수 있습니다.  \n\n주요 기능으로는 UI5 컴포넌트의 실시간 미리보기, 멀티스크린 전환, 데이터 바인딩 검증, 레이아웃 자유롭게 조정하기 등이 포함됩니다. 다중 화면을 동시에 띄워 비교·분석할 수 있어 UI/UX 설계 단계에서 효율적인 검증이 가능합니다. 또한 버전 1.120.21에 최적화된 최신 UI5 기능을 그대로 적용했습니다.  \n\n사용자는 제공된 실행 URL을 통해 샘플을 로드한 뒤, 화면 전환 버튼으로 다양한 레이아웃을 확인하고, OData 연동 데이터를 직접 탐색할 수 있습니다. 각 컴포넌트를 클릭하면 상세 정보와 동작 흐름을 확인할 수 있어, 실제 구현 전 기능 검증과 사용자 경험 설계에 큰 도움을 줍니다.",
+  "descriptionEn": "Test Sample 1 is a desktop-only sample designed to preview a SAP UI5‑based Fiori Elements application in a multi-screen layout. By using the ws‑platform=3.0 environment and the ytest_sh001 app, it connects to OData services in real time, allowing you to experience a UI configuration that closely mirrors real-world business scenarios.\n\nKey features include real-time preview of UI5 components, multi-screen switching, data-binding validation, and flexible layout adjustment. Multiple screens can be displayed simultaneously for side-by-side comparison and analysis, enabling efficient verification during UI/UX design. The sample also incorporates the latest UI5 capabilities optimized for version 1.120.21.\n\nUsers can load the sample via the provided execution URL, then use screen-switch buttons to explore various layouts and directly navigate the OData-linked data. Clicking any component reveals detailed information and its interaction flow, providing substantial assistance for functional verification and user-experience design before actual implementation.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.107.1/YTEST_SH001/YTEST_SH001.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.107.1/YTEST_SH001/YTEST_SH001.mp4",
+  "additionalMediaUrls": [
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.107.1/YTEST_SH001/YTEST_SH001_01.png"
+  ],
+  "keywords": [
+    "UI5 멀티프리뷰",
+    "SAP UI5",
+    "Fiori Elements",
+    "Desktop 환경",
+    "ws-platform=3.0",
+    "ytest_sh001 앱",
+    "UI5 컴포넌트 미리보기",
+    "다중 화면 레이아웃",
+    "OData 연동",
+    "U4A Workspace",
+    "YTEST_SH001",
+    "1.107.1",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.107.1/YTEST_SH001",
+    "files": {
+      "app": "v1.107.1/YTEST_SH001/YTEST_SH001.U4A",
+      "media": "v1.107.1/YTEST_SH001/YTEST_SH001.mp4",
+      "additionalMedia": [
+        "v1.107.1/YTEST_SH001/YTEST_SH001_01.png"
+      ],
+      "metadata": "v1.107.1/YTEST_SH001/YTEST_SH001.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
