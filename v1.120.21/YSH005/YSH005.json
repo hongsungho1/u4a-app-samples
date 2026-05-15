@@ -1,0 +1,53 @@
+{
+  "id": "YSH005",
+  "version": "1.120.21",
+  "category": "mobile",
+  "titleKo": "333 U4A 모바일 샘플 프로젝트",
+  "titleEn": "333 U4A Mobile Sample Project",
+  "descriptionKo": "333 U4A 모바일 샘플 프로젝트는 SAP UI5 기반 애플리케이션을 모바일 환경에서 구현하는 방법을 보여주기 위해 제공됩니다. 기본적인 UI5 컨트롤과 Fiori Elements를 사용해 화면을 구성하고, 반응형 레이아웃을 적용해 다양한 화면 크기에 맞게 자동으로 조정됩니다.\n\n앱은 하이브리드 형태로 iOS와 Android 기기 모두에서 실행될 수 있으며, 온라인·오프라인 상태에 관계없이 데이터를 활용할 수 있도록 OData 서비스와 JSONModel 바인딩을 지원합니다. 사용자는 터치 UI를 통해 리스트 조회, 상세 보기, 검색, 데이터 편집 등의 기본적인 동작을 직접 확인할 수 있습니다.\n\n프로젝트를 실행하면 초기 화면에서 모바일 친화적인 카드 레이아웃을 확인하고, 항목을 선택하면 상세 페이지로 전환됩니다. 데이터 변경 후 저장을 시도하면 오프라인 모드에서도 로컬에 임시 저장되고, 네트워크가 복구되면 서버와 동기화됩니다. 이를 통해 실제 모바일 환경에서의 UI5 애플리케이션 동작 방식을 체험할 수 있습니다.",
+  "descriptionEn": "The 333 U4A Mobile Sample Project is provided to demonstrate how to implement SAP UI5‑based applications on mobile devices. It assembles screens with basic UI5 controls and Fiori Elements, applying a responsive layout that automatically adapts to various screen sizes. The hybrid app runs on both iOS and Android and supports OData services and JSONModel binding, enabling data access in both online and offline modes. Users can interact via touch UI to view lists, see details, search, and edit data. When launched, the initial screen displays a mobile‑friendly card layout, and tapping an item navigates to a detail page. Changes saved offline are temporarily stored locally and synchronized with the server once connectivity returns, allowing users to experience real‑world UI5 behavior on mobile.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YSH005/YSH005.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YSH005/YSH005.mp4",
+  "additionalMediaUrls": [
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YSH005/YSH005_01.png",
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YSH005/YSH005_02.png"
+  ],
+  "keywords": [
+    "U4A 모바일",
+    "UI5 컨트롤",
+    "SAP Fiori Elements",
+    "Responsive Layout",
+    "Hybrid 앱",
+    "Offline 데이터",
+    "OData 서비스",
+    "JSONModel 바인딩",
+    "Touch UI",
+    "iOS Android 지원",
+    "YSH005",
+    "1.120.21",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YSH005",
+    "files": {
+      "app": "v1.120.21/YSH005/YSH005.U4A",
+      "media": "v1.120.21/YSH005/YSH005.mp4",
+      "additionalMedia": [
+        "v1.120.21/YSH005/YSH005_01.png",
+        "v1.120.21/YSH005/YSH005_02.png"
+      ],
+      "metadata": "v1.120.21/YSH005/YSH005.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
