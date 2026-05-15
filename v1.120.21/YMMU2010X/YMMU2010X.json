@@ -1,0 +1,50 @@
+{
+  "id": "YMMU2010X",
+  "version": "1.120.21",
+  "category": "responsive",
+  "titleKo": "통합 스마트 효율적인 시설물 관리 플랫폼",
+  "titleEn": "Integrated Smart and Efficient Facility Management Platform",
+  "descriptionKo": "U4A Workspace는 시설물 관리 업무를 한 곳에서 스마트하게 처리할 수 있도록 설계된 통합 플랫폼입니다. 실시간 데이터 수집과 AI 기반 분석을 통해 시설 운영 효율성을 극대화하고, 사용자 맞춤형 화면으로 언제 어디서나 손쉽게 접근할 수 있습니다.\n\n주요 기능으로는 설비 상태 실시간 모니터링, 고장 예측 알림, 자산 및 유지보수 이력 관리, 모바일·데스크톱 모두 최적화된 반응형 UI가 포함됩니다. 또한 대시보드 위젯을 자유롭게 배치하고, 다양한 필터와 보고서 템플릿을 활용해 필요한 정보를 즉시 추출할 수 있습니다.\n\n사용자는 제공된 실행 URL에 접속해 로그인 후 전체 설비 현황을 한눈에 확인하고, 알림을 통해 즉시 조치를 취할 수 있습니다. 상세 화면에서 설비별 데이터를 검토하고, 유지보수 계획을 수립하거나 보고서를 다운로드하여 팀과 공유하는 등 전 과정을 원스톱으로 수행할 수 있습니다.",
+  "descriptionEn": "U4A Workspace is an integrated platform designed to handle facility management tasks smartly from a single location. By collecting data in real time and leveraging AI‑based analytics, it maximizes operational efficiency of facilities, and its customizable interface lets users access it easily from anywhere, at any time.\n\nKey features include real‑time monitoring of equipment status, predictive failure alerts, asset and maintenance history management, and a responsive UI optimized for both mobile and desktop. Users can freely arrange dashboard widgets and instantly extract needed information using a variety of filters and report templates.\n\nAfter accessing the provided launch URL and logging in, users can view the overall equipment status at a glance and take immediate action through alerts. In detailed screens they can examine data per asset, create maintenance schedules, or download reports to share with the team, enabling a one‑stop workflow.",
+  "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YMMU2010X/YMMU2010X.U4A",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.120.21/YMMU2010X/YMMU2010X.mp4",
+  "additionalMediaUrls": [],
+  "keywords": [
+    "통합 관리",
+    "Smart Facility Monitoring",
+    "실시간 알림",
+    "UI5 Responsive",
+    "AI 기반 예측",
+    "Dashboard 위젯",
+    "모바일 최적화",
+    "Asset Maintenance",
+    "SAP Fiori Elements",
+    "데이터 시각화",
+    "고장 진단",
+    "멀티 디바이스",
+    "맞춤형 보고서",
+    "YMMU2010X",
+    "1.120.21",
+    "U4A",
+    "Workspace"
+  ],
+  "viewCount": 0,
+  "github": {
+    "owner": "hongsungho1",
+    "repo": "u4a-app-samples",
+    "branch": "main",
+    "folder": "v1.120.21/YMMU2010X",
+    "files": {
+      "app": "v1.120.21/YMMU2010X/YMMU2010X.U4A",
+      "media": "v1.120.21/YMMU2010X/YMMU2010X.mp4",
+      "additionalMedia": [],
+      "metadata": "v1.120.21/YMMU2010X/YMMU2010X.json"
+    }
+  },
+  "translation": {
+    "engine": "ollama",
+    "model": "gpt-oss:120b-cloud",
+    "translated": true,
+    "warning": ""
+  }
+}
