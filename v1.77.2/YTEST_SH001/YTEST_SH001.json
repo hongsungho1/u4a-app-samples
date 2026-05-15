@@ -2,30 +2,29 @@
   "id": "YTEST_SH001",
   "version": "1.77.2",
   "category": "responsive",
-  "titleKo": "통지 주문 자동 생성·다채널 전송",
-  "titleEn": "Automatic Notification Order Creation & Multi-Channel Delivery",
-  "descriptionKo": "통지 오더를 손쉽게 만들고, 만든 통지를 바로 사용자에게 전달할 수 있는 프로그램입니다. 사용자는 주문 정보를 입력하면 시스템이 자동으로 알림을 생성하고, 선택한 채널(예: 이메일, 메신저)로 전송합니다.\n\n주요 기능으로는 통지 템플릿 관리, 실시간 미리보기, 전송 결과 확인이 포함됩니다. 또한 다양한 디바이스에서 화면이 자동으로 조정되는 반응형 UI를 제공해 언제 어디서나 편리하게 이용할 수 있습니다. \n\n프로그램 실행 후 통지 생성 → 미리보기 확인 → 전송 버튼 클릭 → 전송 성공 여부와 수신 로그를 확인하는 순서로 작업 흐름을 바로 확인할 수 있습니다.",
-  "descriptionEn": "This program lets you easily create notification orders and instantly deliver the notifications to users. After entering order information, the system automatically generates the notification and sends it through the selected channel (e.g., email, messenger). Key features include notification template management, real-time preview, and delivery result tracking. It also provides a responsive UI that automatically adjusts to various devices, enabling convenient use anywhere, anytime. The workflow is straightforward: create the notification → review the preview → click Send → check delivery success status and receipt logs.",
+  "titleKo": "테스트2",
+  "titleEn": "Test 2",
+  "descriptionKo": "테스트2 U4A Workspace 테스트1 샘플은 반응형 UI 구현과 SAP 연동 기능을 검증하기 위한 목적으로 제공됩니다. 사용자는 다양한 화면 크기에서 레이아웃이 자동으로 조정되는 모습을 확인하고, 실제 SAP 시스템과 연동된 데이터 흐름을 체험할 수 있습니다.  \n\n주요 기능으로는 다국어 전환(sap-language 파라미터), 클라이언트 선택(sap-client 파라미터) 기반의 환경 설정, 그리고 최신 버전(1.120.21)에서 지원되는 반응형 레이아웃 엔진이 포함됩니다. 샘플은 카테고리 “responsive”에 맞춰 설계되어, 모바일부터 데스크톱까지 일관된 사용자 경험을 제공합니다.  \n\n사용자는 https://uha.u4aide.com:10101/zu4a/ytest_sh001?sap-language=EN&sap-client=800 주소에 접속해 페이지 로드, 언어 전환, 데이터 조회 등 기본 동작을 직접 실행해볼 수 있습니다. 이를 통해 U4A Workspace의 핵심 기능을 손쉽게 검증하고, 실제 프로젝트 적용 시 기대 효과를 미리 확인할 수 있습니다.",
+  "descriptionEn": "The Test 2 U4A Workspace Test 1 sample is provided to verify the implementation of a responsive UI and SAP integration features. Users can see the layout automatically adjust across various screen sizes and experience data flows integrated with a real SAP system.\nKey features include multilingual switching (via the sap-language parameter), environment configuration based on client selection (sap-client parameter), and a responsive layout engine supported in the latest version (1.120.21). The sample is designed for the \"responsive\" category, delivering a consistent user experience from mobile to desktop.\nUsers can visit https://uha.u4aide.com:10101/zu4a/ytest_sh001?sap-language=EN&sap-client=800 to try basic actions such as page loading, language switching, and data retrieval. This allows them to easily validate the core capabilities of U4A Workspace and preview the expected benefits when applied to real projects.",
   "appFileUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YTEST_SH001/YTEST_SH001.U4A",
-  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YTEST_SH001/YTEST_SH001.png",
+  "mediaUrl": "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YTEST_SH001/YTEST_SH001.mp4",
   "additionalMediaUrls": [
     "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YTEST_SH001/YTEST_SH001_01.png",
-    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YTEST_SH001/YTEST_SH001_02.png",
-    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YTEST_SH001/YTEST_SH001_03.mp4"
+    "https://raw.githubusercontent.com/hongsungho1/u4a-app-samples/main/v1.77.2/YTEST_SH001/YTEST_SH001_02.png"
   ],
   "keywords": [
-    "통지 자동생성",
-    "multi-channel 전송",
-    "responsive UI",
-    "SAP UI5",
-    "Fiori 요소",
-    "OData 서비스 연동",
-    "실시간 미리보기",
-    "템플릿 관리",
-    "이메일 알림",
-    "메신저 연동",
+    "반응형 UI",
+    "SAP 연동",
+    "다국어 지원",
+    "클라이언트 파라미터",
+    "UI5 레이아웃 엔진",
     "모바일 최적화",
-    "클라우드 배포",
+    "데스크톱 호환",
+    "U4A Workspace",
+    "SAP UI5",
+    "데이터 바인딩",
+    "실시간 데이터 조회",
+    "웹 접근성",
     "YTEST_SH001",
     "1.77.2",
     "U4A",
@@ -39,11 +38,10 @@
     "folder": "v1.77.2/YTEST_SH001",
     "files": {
       "app": "v1.77.2/YTEST_SH001/YTEST_SH001.U4A",
-      "media": "v1.77.2/YTEST_SH001/YTEST_SH001.png",
+      "media": "v1.77.2/YTEST_SH001/YTEST_SH001.mp4",
       "additionalMedia": [
         "v1.77.2/YTEST_SH001/YTEST_SH001_01.png",
-        "v1.77.2/YTEST_SH001/YTEST_SH001_02.png",
-        "v1.77.2/YTEST_SH001/YTEST_SH001_03.mp4"
+        "v1.77.2/YTEST_SH001/YTEST_SH001_02.png"
       ],
       "metadata": "v1.77.2/YTEST_SH001/YTEST_SH001.json"
     }
